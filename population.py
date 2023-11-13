@@ -10,6 +10,3 @@ for line in lines:
 print(f"Total population: {total:,}")
 print(f"Average population: {total / len(lines):,}")
 
-#Try adding comment --> 1
-#Try adding comment --> 2
-
